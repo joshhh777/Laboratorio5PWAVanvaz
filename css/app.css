@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    font-size: 20;
+}
+.container{
+    background-color: black;
+    flex: 1;
+   align-items: center;
+}
+p{
+    color:white;
+}
+.nombre{
+    color: blue;
+    font-size: 15;
+}
