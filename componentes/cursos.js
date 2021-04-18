@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Total from "./total"
 
 
 function Cursos (props) {
@@ -41,6 +42,7 @@ function Cursos (props) {
                 </div>
                 )
         }
+        <Total parte={lista}></Total>
     </div>
     )
 }
